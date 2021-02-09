@@ -17,6 +17,10 @@ tabula-py = "*"
 beautifulsoup4 = "*"
 statsmodels = "*"
 seaborn = "*"
+xlrd = "*"
+openpyxl = "*"
+scikit-learn = "*"
+line-profiler = "*"
 
 [requires]
 python_version = "3.8"
